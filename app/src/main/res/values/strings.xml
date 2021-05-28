@@ -3,4 +3,8 @@
     <string name="tvBank">DBS</string>
     <string name="tvBank2">OCBC</string>
     <string name="tvBank3">UOB</string>
+    <string name="EnglishSelection">English</string>
+    <string name="ChineseSelection">Chinese</string>
+    <string name="MalaySelection">Malay</string>
+    <string name="TamilSelection">Tamil</string>
 </resources>

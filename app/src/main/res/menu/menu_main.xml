@@ -3,17 +3,17 @@
     <item
         android:id="@+id/EnglishSelection"
         android:orderInCategory="100"
-        android:title="English" />
+        android:title="@string/EnglishSelection" />
     <item
         android:id="@+id/ChineseSelection"
         android:orderInCategory="101"
-        android:title="Chinese" />
+        android:title="@string/ChineseSelection" />
     <item
         android:id="@+id/MalaySelection"
         android:orderInCategory="101"
-        android:title="Malay" />
+        android:title="@string/MalaySelection" />
     <item
         android:id="@+id/TamilSelection"
         android:orderInCategory="101"
-        android:title="Tamil" />
+        android:title="@string/TamilSelection" />
 </menu>
