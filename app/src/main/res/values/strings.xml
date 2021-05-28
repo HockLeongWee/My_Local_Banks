@@ -7,4 +7,5 @@
     <string name="ChineseSelection">Chinese</string>
     <string name="MalaySelection">Malay</string>
     <string name="TamilSelection">Tamil</string>
+    <string name="todo">TODO</string>
 </resources>
